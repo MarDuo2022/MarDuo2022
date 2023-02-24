@@ -24,7 +24,7 @@ Tutoring and scientific demonstration experiences
 
 
 ## 📫 Contact Me
-You can reach me via email at [YOUR EMAIL HERE]
+You can reach me via email at [marisa.duong@hotmail.com](mailto: marisa.duong@hotmail.com)
 Connect with me on LinkedIn
 
 
