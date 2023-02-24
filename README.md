@@ -7,7 +7,7 @@ I am also pursuing a certificate in the Data Analytics Program from the Universi
 
 
 ## 🌱 Learning
-I am always looking to learn and grow in my field, and I am currently learning more about data visualization and deep learning techniques.
+I am always looking to learn and grow in my data analytics adventures, and I am currently learning more about data visualization and deep learning techniques.
 I am also interested in expanding my knowledge in machine learning, data mining, and artificial intelligence.
 
 
