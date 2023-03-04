@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 📩 marisa.duong@hotmail.com
+  
 💻 LinkedIn: https://www.linkedin.com/in/marisaduong
 
 🐦 Twitter: @Marisa_Duong
